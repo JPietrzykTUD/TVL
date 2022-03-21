@@ -1,3 +1,4 @@
 [submodule "generator"]
 	path = generator
 	url = git@github.com:JPietrzykTUD/TVLGen.git
+	branch = main
